@@ -5,7 +5,7 @@ A simple example of using `:fennec_precompile`.
 Feel free to use this as a starting point for your own projects.
 
 ```shell
-$ git clone https://
+$ git clone https://github.com/cocoa-xu/fennec_example.git
 $ cd fennec_example
 $ mix deps.get
 ```

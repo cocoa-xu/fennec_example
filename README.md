@@ -10,7 +10,7 @@ $ cd fennec_example
 $ mix deps.get
 ```
 
-Config `:fennec_precompile` for this toy app in the `config/config.exs` file.
+Config `:fennec_precompile` for this toy app in the `config/config.exs` file and play around with it.
 
 ```elixir
 import Config

@@ -28,3 +28,4 @@ fennec_example-*.tar
 # precompiled binaries
 /cache/
 /config/config.exs
+/checksum-*.exs

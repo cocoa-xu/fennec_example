@@ -6,6 +6,10 @@ on:
       - 'v*'
     branches:
       - main
+    path-ignore:
+      - "**/*.md"
+      - "LICENSE"
+      - ".gitignore"
 
 jobs:
   precompile:

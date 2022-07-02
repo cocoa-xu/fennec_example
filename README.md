@@ -16,8 +16,8 @@ Config `:fennec_precompile` for this toy app in the `config/config.exs` file and
 import Config
 
 config :fennec_precompile, :config, fennec_example: [
-  force_build: true,
-  force_build_args: [],
-  force_build_using_zig: true,
+  fennec_force_build: true,
+  fennec_force_build_args: [],
+  fennec_force_build_using_zig: true,
 ]
 ```

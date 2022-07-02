@@ -1,7 +1,7 @@
 import Config
 
 config :fennec_precompile, :config, fennec_example: [
-  force_build: false,
-  force_build_args: [],
-  force_build_using_zig: true,
+  fennec_force_build: false,
+  fennec_force_build_args: [],
+  fennec_force_build_using_zig: true,
 ]

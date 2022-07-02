@@ -1,5 +1,5 @@
 %{
   "castore": {:hex, :castore, "0.1.17", "ba672681de4e51ed8ec1f74ed624d104c0db72742ea1a5e74edbc770c815182f", [:mix], [], "hexpm", "d9844227ed52d26e7519224525cb6868650c272d4a3d327ce3ca5570c12163f9"},
   "elixir_make": {:hex, :elixir_make, "0.6.3", "bc07d53221216838d79e03a8019d0839786703129599e9619f4ab74c8c096eac", [:mix], [], "hexpm", "f5cbd651c5678bcaabdbb7857658ee106b12509cd976c2c2fca99688e1daf716"},
-  "fennec_precompile": {:hex, :fennec_precompile, "0.1.2", "63ec817666f13f57ceb365310bb3e2c3dc514d0607f9444275896abc66c9808c", [:mix], [{:castore, "~> 0.1", [hex: :castore, repo: "hexpm", optional: false]}, {:elixir_make, "~> 0.6", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm", "1cee1ea57a7b235419364182eef6a7b32cfa67269fc537ab9242b7d66de559e0"},
+  "fennec_precompile": {:hex, :fennec_precompile, "0.1.2", "64ef006e4e5bfcf416c7a01e74efa3f783ef7371066494c8384e3accc33c2fca", [:mix], [{:castore, "~> 0.1", [hex: :castore, repo: "hexpm", optional: false]}, {:elixir_make, "~> 0.6", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm", "fdbb428161cbe38d1c60d52a608fb19d5c5f84e8863cbe5e20b13ec6371736a1"},
 }
